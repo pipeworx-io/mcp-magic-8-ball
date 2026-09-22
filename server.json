@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/magic-8-ball",
   "title": "Magic 8 Ball",
-  "description": "magic-8-ball MCP \u2014 wraps StupidAPIs (requires X-API-Key)",
-  "version": "0.1.0",
+  "description": "magic-8-ball MCP — wraps StupidAPIs (keyless — no credential needed)",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/magic-8-ball",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-magic-8-ball",
