@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-magic-8-ball",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "magic-8-ball MCP — wraps StupidAPIs (keyless — no credential needed)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-6caf8db3d6ab901b45f4d7bcb720207689eb762a93d8c19a88e96f36b67907c2",
-    "sourceCommit": "6182c4cfebddb94950e060b5d2fca18f18ad1aca"
+    "sourceHash": "v1-af66134cd8994db3555bb23df24259b83d1a9299e1a936744a80d5ef32d34cf3",
+    "sourceCommit": "33741fe6d9ba71856e73fa683c73572d1ddf2e93"
   }
 }
